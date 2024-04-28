@@ -4,7 +4,7 @@ import './css/table.css'
 import './css/home.css'
 import Layout from "./Layout";
 
-// amin root component
+// main root component
 function App() {
   return (
     <div className="App">
