@@ -1,0 +1,1 @@
+export const IMAGE_URL="https://cdn-icons-png.freepik.com/512/5148/5148426.png";
